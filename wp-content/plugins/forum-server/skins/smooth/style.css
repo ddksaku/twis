@@ -1,0 +1,124 @@
+/*
+	Skin name: Smooth Exclusive
+	Description: Attempts to smoothly adapt to your wordpress theme by allowing the mail theme to control most color settings.
+	Author: vastHTML
+	Author url: http://www.vasthtml.com
+	Version: 1.3
+*/ 
+#wpf-wrapper {
+	font-size: 90%;
+}
+.wpf-table, .wpf-post-table {
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	text-align:left;
+}
+td, th {
+	padding: 5px;
+}
+td {
+	vertical-align: top;
+}
+.wpf-table tr {
+	border-bottom: 1px solid #ccc;
+}
+.wpf-table tr.alt, tr.wpf-alt {
+	background: #f9f9f9;
+}
+.wpf-table textarea {
+	width: 98%;
+}
+.avatar {
+	border:2px #ccc solid;
+	padding:2px;
+	width:48px;
+	height:48px;
+}
+th {
+	background: #555;
+	color: #fff;
+	font-weight: bold;
+}
+#upshrinkHeader form {
+	text-align:left;}
+	#upshrinkHeader TD {
+		border:1px #ccc solid;
+		}
+.wpf-meta {
+	border-bottom: 1px solid #ccc;
+}
+.wpf-bright {
+	background: #eee;
+	color: #333;
+	display:none;
+}
+.right {
+	text-align:left;
+	padding:3px;
+	margin:0px;
+	border-top:#ccc 1px solid;
+	display:inline!important;
+}
+.right FORM {
+	float:right;
+}
+.right INPUT {
+	border:1px #ccc solid;
+	background:#FFF;}
+th h4 {
+	margin: 0;
+}
+#trail {
+	background: #f9f9f9;
+	border: 1px solid #ccc;
+	padding: 3px;
+}
+#wpf-info {
+	background: #f9f9f9;
+	text-align: center;
+	border: 1px solid #ccc;
+	padding: 5px;
+	margin-top: 1em;
+}
+.maintab_first, .mirrortab_first, {
+ display: none!important;
+}
+#forummenu .mirrortab_last {
+	display: none!important;
+}
+#forummenu .maintab_last {
+	display: none!important;
+}
+#forummenu {
+	width:100px;
+	text-align:center;
+}
+.maintab_back, .mirrortab_back {
+	width:112px!important;
+	text-align:center;
+	display:inline!important;
+}
+.maintab_back:hover, .mirrortab_back:hover {
+	background: #999;
+}
+#forummenu .maintab_back {
+	display:inline!important;
+}
+#forummenu .mirrortab_back {
+	display:inline!important;
+}
+#mainmenu {
+	margin-left:0!important;
+	margin-top:5px;
+	width:100%;
+}
+#forummenu, #topicmenu, #mainmenu {
+	background: #f9f9f9;
+	border: 1px solid #ccc;
+	padding: 0;
+}
+#topicmenu {
+	margin:0px!important;}
+p#trail {
+	margin-top: 1em;
+}

@@ -1,0 +1,101 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+
+RewriteBase /
+
+Redirect 301  /vyvoj-software-home/home.aspx    http://memosweb.memos.cz/  
+Redirect 301  /home.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-profil/profil.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-reseni/reseni.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sluzby/sluzby.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-kariera/kariera.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-reference/reference.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-kontakt/kontakt.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-o-firme/o-firme.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-mise-a-hodnoty/mise-a-hodnoty.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-tiskove-zpravy/tiskove-zpravy.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-napsali-o-nas/napsali-o-nas.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-eway-crm-ms-outlook/eway-crm-ms-outlook.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-ms-exchange-synchronizace/ms-exchange-synchronizace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-personalni-system/personalni-system.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sms-aplikace-mms-aplikace/sms-aplikace-mms-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sms-desktopova-aplikace/sms-desktopova-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-redakcni-system/redakcni-system.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-eway-web-access/eway-web-access.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-help-desk/help-desk.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-planovani-kapacit/planovani-kapacit.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sprava-pacientu/sprava-pacientu.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-office-sharepoint-server/office-sharepoint-server.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-reportovaci-system/reportovaci-system.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-softalk-licence-reseller/softalk-licence-reseller.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-softalk-share-server/softalk-share-server.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-softalk-workgroup-share/softalk-workgroup-share.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-MailDisclaimer_Microsoft_Exchange/MailDisclaimer_Microsoft_Exchange.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-integrace-microsoft-produktu/integrace-microsoft-produktu.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-vyvoj-software-na-zakazku/vyvoj-software-na-zakazku.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-konzultace-analyzy/konzultace-analyzy.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-outsourcing-bodyshoping/outsourcing-bodyshoping.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-internetovy-marketing/internetovy-marketing.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-outlook-integrace/outlook-integrace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-exchnage-integrace/exchnage-integrace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sharepoint-integrace/sharepoint-integrace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-desktop-aplikace/desktop-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-webove-aplikace/webove-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-mobilni-sms-mms-aplikace/mobilni-sms-mms-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-business-intelligence-databazova-reseni/business-intelligence-databazova-reseni.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-projekt-manager/projekt-manager.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-profil-typickeho-pracovnika-memos-software/profil-typickeho-pracovnika-memos-software.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-pripadove-studie/pripadove-studie.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-zakaznici/zakaznici.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-napiste-nam/napiste-nam.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-kontaktni-informace/kontaktni-informace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-outlook-integrace/outlook-integrace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-webove-aplikace/webove-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-mobilni-sms-mms-aplikace/mobilni-sms-mms-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-business-intelligence-databazova-reseni/business-intelligence-databazova-reseni.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-reseni/reseni.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-softalk-share-server/softalk-share-server.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-softalk-workgroup-share/softalk-workgroup-share.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-MailDisclaimer_Microsoft_Exchange/MailDisclaimer_Microsoft_Exchange.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-eway-crm-ms-outlook/eway-crm-ms-outlook.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-ms-exchange-synchronizace/ms-exchange-synchronizace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-personalni-system/personalni-system.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sms-aplikace-mms-aplikace/sms-aplikace-mms-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sms-desktopova-aplikace/sms-desktopova-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-redakcni-system/redakcni-system.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-eway-web-access/eway-web-access.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-help-desk/help-desk.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-planovani-kapacit/planovani-kapacit.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sprava-pacientu/sprava-pacientu.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-office-sharepoint-server/office-sharepoint-server.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-reportovaci-system/reportovaci-system.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-zakaznici/zakaznici.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-kariera/kariera.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-projekt-manager/projekt-manager.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-tiskove-zpravy/tiskove-zpravy.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-tiskove-zpravy/tiskove-zpravy.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-certifikace-iso-9001-2001/certifikace-iso-9001-2001.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-webove-aplikace-old/webove-aplikace-old.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-integrace-microsoft-produktu-old/integrace-microsoft-produktu-old.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-sms-aplikace-mms-aplikace/sms-aplikace-mms-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-mobilni-aplikace-pda-aplikace/mobilni-aplikace-pda-aplikace.aspx    http://memosweb.memos.cz/  
+Redirect 301  /vyvoj-software-eway-crm-ms-outlook/eway-crm-ms-outlook.aspx    http://memosweb.memos.cz/  
+
+Redirect 301  /vyvoj-software-site-map/site-map.aspx    http://memosweb.memos.cz/  
+
+
+
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+
+
+
+</IfModule>
+
+# END WordPress
